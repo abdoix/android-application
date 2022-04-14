@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:gravity="center">
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_baseline_check_circle_24" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/custom_dialog"
+        android:textSize="24sp"
+        android:textColor="@color/semi_black"
+        android:layout_marginBottom="16dp"/>
+
+
+    <ListView
+        android:id="@+id/ticket"
+        android:layout_width="match_parent"
+        android:layout_height="120dp" />
+<TextView
+    android:id="@+id/dialogtotal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="22sp"
+    android:textAlignment="center"
+    />
+    <androidx.appcompat.widget.AppCompatCheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="save information"
+        android:id="@+id/terms_cb" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text="exit"
+            android:textColor="@color/semi_black"
+            android:paddingHorizontal="20dp"
+            android:background="@drawable/button1_bg_out"
+            android:id="@+id/submit_buttonexit" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text="back to home"
+            android:textColor="@color/white"
+            android:paddingHorizontal="40dp"
+            android:background="@drawable/button1_bg"
+            android:id="@+id/submit_button"/>
+    </LinearLayout>
+
+</LinearLayout>

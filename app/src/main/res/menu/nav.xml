@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        android:color="@color/black"
+        android:state_checked="true"
+        />
+    <item
+        android:id="@+id/Flight"
+        android:icon="@drawable/ic_baseline_flight_24"
+        android:title="Flight"
+        />
+    <item
+        android:id="@+id/Maps"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="Maps"
+        />
+    <item
+        android:id="@+id/Card"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Card"
+        />
+    <item
+        android:id="@+id/acount"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Card"
+        />
+
+</menu>

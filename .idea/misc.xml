@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/ams_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/bottombtn.xml" value="0.1315" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/btn1.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/button1_bg.xml" value="0.137" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/button1_bg_out.xml" value="0.1025" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/header.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/headerimg_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/headerout.xml" value="0.1055" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/ic_lock.xml" value="0.122" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/listitem.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/login img_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/logo_background.xml" value="0.131" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/outline_btn.xml" value="0.131" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/drawable/serchback.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/activity_forgot_password.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/activity_payment.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/activity_testerr.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/colrv.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/custom_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/custom_dialog_error.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_card.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_cartpay.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_details.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_list.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_maps.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_payment.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_paypal.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/fragment_procced.xml" value="0.2948717948717949" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/rowitem.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/layout/rowrv.xml" value="0.3977272727272727" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/menu/nav.xml" value="0.1796875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/mipmap-anydpi-v26/TRAVELheader.xml" value="0.1875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/mipmap-anydpi-v26/ams.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/last/app/src/main/res/mipmap-anydpi-v26/login img.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
